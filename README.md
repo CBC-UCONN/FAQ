@@ -1,3 +1,3 @@
 # FAQ
 
-Visit our wiki page for frequently asked questions 
+Visit our [wiki page](https://github.com/CBC-UCONN/FAQ/wiki) for frequently asked questions 
